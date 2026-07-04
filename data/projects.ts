@@ -1,7 +1,7 @@
 export const projects = [
   {
     title: "ClubSphere AI",
-    image: "/projects/clubsphereai-photo.png",
+    image: "/projects/clubsphereaiphoto.png",
     description:
       "AI-powered assistant for discovering, managing and interacting with college clubs using Retrieval-Augmented Generation and modern AI workflows.",
 
@@ -35,7 +35,7 @@ export const projects = [
     ],
 
     github: "https://github.com/ManibhushanaKG/FlightManager",
-    live: "",
+    live: "https://flightmanager-mk97.onrender.com/",
 
     featured: false,
   },
@@ -43,7 +43,7 @@ export const projects = [
   {
   title: "Citizen Complaint Portal",
 
-  image: "/projects/citizen-complaint.png",
+  image: "/projects/citizencomplaint.png",
 
   description:
     "A full-stack web application that enables citizens to submit, track, and manage public complaints with image uploads, geolocation, and an admin dashboard.",

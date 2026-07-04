@@ -8,13 +8,13 @@ import Experience from "@/components/experience/Experience";
 import Contact from "@/components/contact/Contact";
 import Footer from "@/components/footer/Footer";
 import ScrollProgress from "@/components/layout/ScrollProgress";
+import Loader from "@/components/layout/Loader";
 
 export default function Home() {
   return (
-    <>
-      <>
+    <main>
+  <Loader />
   <ScrollProgress />
-
   <Spotlight />
   <Navbar />
   <Hero />
@@ -24,7 +24,6 @@ export default function Home() {
   <Experience />
   <Contact />
   <Footer />
-</>
-    </>
+    </main>
   );
 }

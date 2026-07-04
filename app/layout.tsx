@@ -13,8 +13,53 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Manibhushana KG | Portfolio",
-  description: "Software Engineer | AI Developer | Full Stack Developer",
+  title: "Manibhushana KG | Software Engineer",
+  description:
+    "Portfolio of Manibhushana KG - Software Engineer, Full Stack Developer and AI Developer from Bengaluru.",
+
+  keywords: [
+    "Manibhushana KG",
+    "Portfolio",
+    "Software Engineer",
+    "Full Stack Developer",
+    "AI Developer",
+    "Next.js",
+    "React",
+    "Java",
+    "Python",
+    "Oracle",
+    "Flask",
+  ],
+
+  authors: [
+    {
+      name: "Manibhushana KG",
+    },
+  ],
+
+  creator: "Manibhushana KG",
+
+  openGraph: {
+    title: "Manibhushana KG | Portfolio",
+    description:
+      "Software Engineer • Full Stack Developer • AI Developer",
+    url: "https://manibhushanakg.vercel.app", // Change after deployment if needed
+    siteName: "Manibhushana KG Portfolio",
+    locale: "en_IN",
+    type: "website",
+  },
+
+  twitter: {
+    card: "summary_large_image",
+    title: "Manibhushana KG",
+    description:
+      "Software Engineer • Full Stack Developer • AI Developer",
+  },
+
+  robots: {
+    index: true,
+    follow: true,
+  },
 };
 
 export default function RootLayout({
