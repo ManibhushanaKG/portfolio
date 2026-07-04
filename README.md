@@ -85,9 +85,3 @@ https://linkedin.com/in/manibhushana
 
 💻 GitHub:
 https://github.com/ManibhushanaKG
-
----
-
-## 📄 License
-
-This project is open-source and available under the MIT License.
