@@ -1,15 +1,13 @@
 import Navbar from "@/components/layout/Navbar";
+import Hero from "@/components/hero/Hero";
+import Spotlight from "@/components/hero/Spotlight";
 
 export default function Home() {
   return (
-    <main className="min-h-screen">
+    <>
+      <Spotlight />
       <Navbar />
-
-      <section className="flex min-h-screen items-center justify-center">
-        <h1 className="text-5xl font-bold">
-          Portfolio Coming Soon
-        </h1>
-      </section>
-    </main>
+      <Hero />
+    </>
   );
 }
