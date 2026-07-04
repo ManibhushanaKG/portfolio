@@ -22,7 +22,7 @@ export default function Hero() {
   Available for Internships
 </div>
         <p className="mb-6 uppercase tracking-[0.4em] text-sm text-zinc-500">
-  SOFTWARE ENGINEER • AI DEVELOPER
+  SOFTWARE ENGINEER • FULL STACK DEVELOPER • AI DEVELOPER
 </p>
         <h1 className="bg-gradient-to-r from-white via-zinc-200 to-violet-400 bg-clip-text text-7xl font-black tracking-tight text-transparent md:text-[8rem]">
   {profile.name}
