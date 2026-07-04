@@ -4,11 +4,12 @@ A modern, responsive personal portfolio showcasing my projects, skills, and expe
 
 ## 🌐 Live Website
 
-https://YOUR-VERCEL-LINK.vercel.app
+https://manibhushana.vercel.app
+
 
 ## 📸 Preview
 
-<img width="100%" alt="Portfolio Preview" src="https://YOUR-SCREENSHOT-LINK" />
+![Portfolio Preview](/public/projects/portfolio-preview.png)
 
 ---
 
